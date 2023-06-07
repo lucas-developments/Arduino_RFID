@@ -4,11 +4,11 @@
 
 ## RFID Modul
 
-* [📋 RFID](rfid-modul/rfid\_tech/README.md)
-  * [Verarbeitung](rfid-modul/rfid\_tech/vision.md)
-  * [Mission](rfid-modul/rfid\_tech/mission.md)
-  * [Focus](rfid-modul/rfid\_tech/focus.md)
-* [💖 Values](rfid-modul/values.md)
+* [📋 RFID](about-us/vision-mission-and-focus/README.md)
+  * [Verarbeitung](about-us/vision-mission-and-focus/vision.md)
+  * [Mission](about-us/vision-mission-and-focus/mission.md)
+  * [Focus](about-us/vision-mission-and-focus/focus.md)
+* [💖 Values](about-us/values.md)
 
 ## Team
 
