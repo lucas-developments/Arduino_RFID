@@ -9,17 +9,20 @@
   * [Ziel](about-us/vision-mission-and-focus/mission.md)
   * [Fokus](about-us/vision-mission-and-focus/focus.md)
 
-***
+## LCD Modul <a href="#lcd" id="lcd"></a>
 
-* [🖥 LCD Display](lcd/README.md)
-  * [Verarbeitung](lcd/vision.md)
-  * [Ziel](lcd/mission.md)
-  * [Fokus](lcd/focus.md)
-* [⌨ Tastenfeld](tastenfeld/README.md)
-  * [Verarbeitung](tastenfeld/vision.md)
-  * [Ziel](tastenfeld/mission.md)
-  * [Fokus](tastenfeld/focus.md)
+* [🖥 LCD Display](lcd/lcd/README.md)
+  * [Verarbeitung](lcd/lcd/vision.md)
+  * [Ziel](lcd/lcd/mission.md)
+  * [Fokus](lcd/lcd/focus.md)
 
-## Policies
+## Tastenfeld Modul <a href="#tastenfeld" id="tastenfeld"></a>
 
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
+* [⌨ Tastenfeld](tastenfeld/tastenfeld/README.md)
+  * [Verarbeitung](tastenfeld/tastenfeld/vision.md)
+  * [Ziel](tastenfeld/tastenfeld/mission.md)
+  * [Fokus](tastenfeld/tastenfeld/focus.md)
+
+## Serielle Kommunikation <a href="#serial-comms" id="serial-comms"></a>
+
+* [📲 Serielle Kommunikation](serial-comms/how-to.md)
