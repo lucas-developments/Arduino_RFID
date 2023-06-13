@@ -5,23 +5,23 @@
 ## RFID Modul
 
 * [📋 RFID](about-us/vision-mission-and-focus/README.md)
-  * [Verarbeitung](about-us/vision-mission-and-focus/vision.md)
-  * [Ziel](about-us/vision-mission-and-focus/mission.md)
-  * [Fokus](about-us/vision-mission-and-focus/focus.md)
+  * [Verarbeitung](rfid-modul/rfid\_tech/verarbeitung.md)
+  * [Ziel](rfid-modul/rfid\_tech/ziel.md)
+  * [Fokus](rfid-modul/rfid\_tech/fokus.md)
 
-## LCD Modul <a href="#lcd" id="lcd"></a>
+## LCD Modul <a href="#lcd_modul" id="lcd_modul"></a>
 
-* [🖥 LCD Display](lcd/lcd/README.md)
-  * [Verarbeitung](lcd/lcd/vision.md)
-  * [Ziel](lcd/lcd/mission.md)
-  * [Fokus](lcd/lcd/focus.md)
+* [🖥 LCD Display](lcd\_modul/display/README.md)
+  * [Verarbeitung](lcd\_modul/display/verarbeitung.md)
+  * [Ziel](lcd\_modul/display/ziel.md)
+  * [Fokus](lcd\_modul/display/fokus.md)
 
-## Tastenfeld Modul <a href="#tastenfeld" id="tastenfeld"></a>
+## Tastenfeld Modul <a href="#tastenfeld_modul" id="tastenfeld_modul"></a>
 
-* [⌨ Tastenfeld](tastenfeld/tastenfeld/README.md)
-  * [Verarbeitung](tastenfeld/tastenfeld/vision.md)
-  * [Ziel](tastenfeld/tastenfeld/mission.md)
-  * [Fokus](tastenfeld/tastenfeld/focus.md)
+* [⌨ Tastenfeld](tastenfeld\_modul/tastenfeld/README.md)
+  * [Verarbeitung](tastenfeld\_modul/tastenfeld/verarbeitung.md)
+  * [Ziel](tastenfeld\_modul/tastenfeld/ziel.md)
+  * [Fokus](tastenfeld\_modul/tastenfeld/fokus.md)
 
 ## Serielle Kommunikation <a href="#serial-comms" id="serial-comms"></a>
 
@@ -30,6 +30,6 @@
 ## Schaltpläne <a href="#connection-plans" id="connection-plans"></a>
 
 * [🗺 Arduino Uno R3](connection-plans/r3.md)
-* [🗺 Arduino Leonardo](connection-plans/r3-1.md)
-* [🗺 Komplettansicht](connection-plans/r3-2.md)
-* [🗺 Fritzing Downloaddatei](connection-plans/r3-3.md)
+* [🗺 Arduino Leonardo](connection-plans/leonardo.md)
+* [🗺 Komplettansicht](connection-plans/full-plans.md)
+* [🗺 Fritzing Downloaddatei](connection-plans/r3-1.md)

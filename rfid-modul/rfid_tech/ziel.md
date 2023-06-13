@@ -12,7 +12,7 @@ description: 'RFID: Ziel'
 Funktionsfreigabe durch das Auslesen eines RFID Chips. Dieses hat später sogar geklappt!
 {% endhint %}
 
-Das Programm, welches in [vision.md](vision.md "mention")gezeigt wird, liest den RFID-Chip aus, indem es kontinuierlich überprüft, ob eine neue Karte erkannt wird. Wenn eine Karte erkannt wird, wird der eindeutige Code des Chips gelesen und als "uid" gespeichert. Anschließend wird die Funktion `write_RFID()` aufgerufen, um den RFID-Code weiterzuverarbeiten.
+Das Programm, welches in [verarbeitung.md](verarbeitung.md "mention")gezeigt wird, liest den RFID-Chip aus, indem es kontinuierlich überprüft, ob eine neue Karte erkannt wird. Wenn eine Karte erkannt wird, wird der eindeutige Code des Chips gelesen und als "uid" gespeichert. Anschließend wird die Funktion `write_RFID()` aufgerufen, um den RFID-Code weiterzuverarbeiten.
 
 Falls innerhalb des definierten Zeitlimits von 15 Sekunden kein RFID-Chip erkannt wird, wird die Meldung "Timeout abgelaufen, RFID-Modul freigegeben" auf der seriellen Konsole ausgegeben. Dies bedeutet, dass das RFID-Modul ohne gültigen Chip erkannt wurde und somit die Freigabe erteilt wird.
 
