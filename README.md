@@ -1,6 +1,6 @@
 # 👋 Willkommen!
 
-Ein Programm welches durch das Auslesen eines RFID - Chips einige Funktion freigibt.
+Ein Programm, welches durch das Auslesen eines RFID - Chips einige Funktionen freigibt.
 
 ![](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBwJovXHt8m1Q1qtaAluT%2Fuploads%2FTyGYBWDCTl5KeiH1F9yC%2Fwepik-gradient-developers-coding-logo-20230606213227n277.png?alt=media\&token=f51be79d-3c61-49ae-9713-b4b9cf824e79)
 
@@ -8,31 +8,31 @@ Ein Programm welches durch das Auslesen eines RFID - Chips einige Funktion freig
 
 ## Vorab - Installation
 
-Laden Sie sich die Repository herunter und öffnen Sie die .ino Datei in Arduino. Einen Downloadink finden Sie [hier](https://www.arduino.cc/en/software/).
+Laden Sie sich das Repository herunter und öffnen Sie die .ino - Datei in Arduino. Einen Downloadlink finden Sie [hier](https://www.arduino.cc/en/software/).
 
-Sobald Sie die Datei geöffnet haben gehen Sie folgt vor:
+Sobald Sie die Datei geöffnet haben, gehen Sie folgt vor:
 
 ```bash
 Verbinden Sie den Arduino Leonardo und den Arduino Uno 3 mit ihrem PC
 ```
 
 ```bash
-Wählen Sie die Boards aus und stellen sie die Ports ein. Stellen Sie bei beiden Boards den Programmer auf „Arduino As ISP“
+Wählen Sie die Boards aus und stellen sie die Ports ein. Stellen Sie bei beiden Boards den Programmer auf „Arduino As ISP"
 ```
 
 ## Installation
 
-Um das Programm nutzen zu können werden ein paar Sachen vorausgesetzt.
+Um das Programm nutzen zu können, werden ein paar Sachen vorausgesetzt:
 
 Wir setzen also die Installation von Arduino voraus.
 
 ```bash
-  Starten Sie die Arduino IDE
-  Öffnen Sie die Datei
-  Wählen Sie Boards, Ports und Programmer aus
-  Laden Sie die Datei hoch
-  Scannen Sie den RFID Chip
-  Folgen Sie den Anweisungen im Terminal
+  Starten Sie die Arduino IDE
+  Öffnen Sie die Datei
+  Wählen Sie Boards, Ports und Programmer aus
+  Laden Sie die Datei hoch
+  Scannen Sie den RFID - Chip
+  Folgen Sie den Anweisungen im Terminal
 ```
 
 ## Features
@@ -55,7 +55,7 @@ Unsere Leistungstest weisen eine gute Performance auf. Jegliche Abfragen sind sc
 
 ## Optimisierungen
 
-Getätigt wurden Codeoptimierungen und auch die Zusammenfassung mehrere Funktionen, sodass es einfacher ist neuen Code einzufügen oder zu verbessern. Außerdem ist der Code ordentlich und sehr übersichtlich. Für jegliche Funktionen gitb es Variablen, welche in jeder beliebigen Funktion aufgerufen werden können.
+Getätigt wurden Codeoptimierungen und auch die Zusammenfassung mehrere Funktionen, sodass es einfacher ist, neuen Code einzufügen oder zu verbessern. Außerdem ist der Code ordentlich und sehr übersichtlich. Für jegliche Funktionen gitb es Variablen, welche in jeder beliebigen Funktion aufgerufen werden können.
 
 ## Progammiersprachen
 
