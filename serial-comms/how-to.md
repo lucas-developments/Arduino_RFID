@@ -11,9 +11,11 @@ Die serielle Kommunikation zwischen dem Arduino Leonardo und dem Arduino Uno R3 
 
 1. Hardwareverbindung: Um die beiden Arduinos miteinander zu verbinden, müssen die TX (Transmit) und RX (Receive)-Pins der beiden Boards verbunden werden. Das TX-Pin des einen Boards muss mit dem RX-Pin des anderen Boards verbunden werden und umgekehrt. Es ist auch wichtig, die Masse (GND) der beiden Boards zu verbinden, um eine gemeinsame Bezugsebene für die Kommunikation zu haben.
 2. Baudrate festlegen: Bevor die Kommunikation beginnen kann, müssen beide Arduinos auf die gleiche Baudrate eingestellt sein. Die Baudrate legt die Geschwindigkeit der Datenübertragung fest. Sie muss auf beiden Boards identisch sein, damit die Kommunikation ordnungsgemäß funktioniert.
-3.  Serielle Schnittstelle initialisieren: In der Arduino-Programmierung wird die serielle Kommunikation über die "Serial" Library verwaltet. Auf beiden Arduinos müssen Sie die serielle Schnittstelle mit der entsprechenden Baudrate initialisieren. Zum Beispiel:
+3.  Serielle Schnittstelle initialisieren: In der Arduino-Programmierung wird die serielle Kommunikation über die "Serial" Library verwaltet. Auf beiden Arduinos müssen Sie die serielle Schnittstelle mit der entsprechenden Baudrate initialisieren. Zum Beispiel:\
 
-    Arduino Leonardo:
+
+    **Arduino Leonardo:**\
+
 
     ```cpp
     void setup() {
@@ -21,7 +23,9 @@ Die serielle Kommunikation zwischen dem Arduino Leonardo und dem Arduino Uno R3 
     }
     ```
 
-    Arduino Uno R3:
+    \
+    **Arduino Uno R3:**\
+
 
     ```cpp
     void setup() {
@@ -40,7 +44,8 @@ Die serielle Kommunikation zwischen dem Arduino Leonardo und dem Arduino Uno R3 
     ```
 
 
-5.  Arduino Uno R3:
+5.  **Arduino Uno R3:**\
+
 
     ```cpp
     void loop() {
