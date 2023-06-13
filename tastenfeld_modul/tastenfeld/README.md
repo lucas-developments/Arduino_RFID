@@ -1,5 +1,7 @@
 ---
 description: 'Tastenfeld: Generelles'
+cover: ../../.gitbook/assets/61N6H2shGZL._AC_UF1000,1000_QL80_.jpg
+coverY: 0
 ---
 
 # ⌨ Tastenfeld

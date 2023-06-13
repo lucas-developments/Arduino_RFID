@@ -1,5 +1,7 @@
 ---
 description: 'LCD Display: Generelles'
+cover: ../../.gitbook/assets/F2948695-01.webp
+coverY: 0
 ---
 
 # 🖥 LCD Display

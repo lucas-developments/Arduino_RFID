@@ -1,5 +1,7 @@
 ---
 description: 'RFID: Generelles'
+cover: ../../.gitbook/assets/tecnologia-rfid.webp
+coverY: 0
 ---
 
 # 📋 RFID
