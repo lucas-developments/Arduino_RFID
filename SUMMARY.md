@@ -8,11 +8,13 @@
   * [Verarbeitung](about-us/vision-mission-and-focus/vision.md)
   * [Ziel](about-us/vision-mission-and-focus/mission.md)
   * [Fokus](about-us/vision-mission-and-focus/focus.md)
-* [💖 Values](about-us/values.md)
 
-## Team
+***
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [🖥 LCD Display](lcd/README.md)
+  * [Verarbeitung](lcd/vision.md)
+  * [Ziel](lcd/mission.md)
+  * [Fokus](lcd/focus.md)
 
 ## Collaborating
 
