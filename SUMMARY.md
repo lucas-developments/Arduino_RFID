@@ -15,11 +15,10 @@
   * [Verarbeitung](lcd/vision.md)
   * [Ziel](lcd/mission.md)
   * [Fokus](lcd/focus.md)
-
-## Collaborating
-
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [⌨ Tastenfeld](tastenfeld/README.md)
+  * [Verarbeitung](tastenfeld/vision.md)
+  * [Ziel](tastenfeld/mission.md)
+  * [Fokus](tastenfeld/focus.md)
 
 ## Policies
 
