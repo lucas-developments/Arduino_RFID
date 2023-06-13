@@ -1,3 +1,7 @@
+---
+description: 'LCD Display: Ziel'
+---
+
 # Ziel
 
 ## Unser Ziel

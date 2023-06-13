@@ -1,3 +1,7 @@
+---
+description: 'LCD Display: Fokus'
+---
+
 # Fokus
 
 ## Unser Fokus

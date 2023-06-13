@@ -1,4 +1,5 @@
 ---
+description: 'Serielle Kommunikation: How - to & Generelles'
 cover: >-
   https://images.unsplash.com/photo-1631378297854-185cff6b0986?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxicmVhZGJvYXJkfGVufDB8fHx8MTY4NjY3NTc2Nnww&ixlib=rb-4.0.3&q=85
 coverY: 0

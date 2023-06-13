@@ -1,3 +1,7 @@
+---
+description: 'RFID: Generelles'
+---
+
 # 📋 RFID
 
 ## Was ist RFID?

@@ -1,3 +1,7 @@
+---
+description: 'LCD Display: Verarbeitung'
+---
+
 # Verarbeitung
 
 ## Verarbeitung in unser Projekt

@@ -1,3 +1,7 @@
+---
+description: 'RFID: Ziel'
+---
+
 # Ziel
 
 ## Unser Ziel

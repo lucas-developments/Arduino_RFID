@@ -26,3 +26,10 @@
 ## Serielle Kommunikation <a href="#serial-comms" id="serial-comms"></a>
 
 * [📲 Serielle Kommunikation](serial-comms/how-to.md)
+
+## Schaltpläne <a href="#connection-plans" id="connection-plans"></a>
+
+* [🗺 Arduino Uno R3](connection-plans/r3.md)
+* [🗺 Arduino Leonardo](connection-plans/r3-1.md)
+* [🗺 Komplettansicht](connection-plans/r3-2.md)
+* [🗺 Fritzing Downloaddatei](connection-plans/r3-3.md)

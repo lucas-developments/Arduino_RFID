@@ -1,3 +1,7 @@
+---
+description: 'Tastenfeld: Ziel'
+---
+
 # Ziel
 
 ## Unser Ziel

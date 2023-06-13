@@ -1,3 +1,7 @@
+---
+description: 'Tastenfeld: Fokus'
+---
+
 # Fokus
 
 ## Unser Fokus

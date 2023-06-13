@@ -1,3 +1,7 @@
+---
+description: 'LCD Display: Generelles'
+---
+
 # 🖥 LCD Display
 
 ## **Was ist LCD?**
