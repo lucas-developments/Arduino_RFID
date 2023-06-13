@@ -6,8 +6,8 @@
 
 * [📋 RFID](about-us/vision-mission-and-focus/README.md)
   * [Verarbeitung](about-us/vision-mission-and-focus/vision.md)
-  * [Mission](about-us/vision-mission-and-focus/mission.md)
-  * [Focus](about-us/vision-mission-and-focus/focus.md)
+  * [Ziel](about-us/vision-mission-and-focus/mission.md)
+  * [Fokus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 
 ## Team

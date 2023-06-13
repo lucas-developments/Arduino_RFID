@@ -13,6 +13,8 @@ Zusehen ist die Einbindung des RFID Moduls. Dafür gab es folgende Voraussetzung
 * [ ] Einbindung der SPI - Library
 * [ ] Einbindung der MFRC522 Library
 * [ ] setzen des MIFARE Keys
+* [ ] MFRC552 Instanz erstellen und initialisieren
+* [ ] nach Prsäsenz der Karte und der UID Fragen mit Funktion readRFID ab Zeile80
 
 
 
