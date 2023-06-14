@@ -12,9 +12,12 @@ Ein Tastenfeld ist eine Vorrichtung, die aus einer Reihe von Tasten besteht, die
 
 ## Komponenten
 
-1. Tasten: Die Hauptkomponenten eines Tastenfelds sind die physischen Tasten, die gedrückt werden, um Eingaben zu machen. Diese Tasten können unterschiedliche Formen und Größen haben und sind oft mit Buchstaben, Zahlen, Symbolen oder spezifischen Funktionen beschriftet.
-2. Schaltkreise: Hinter jeder Taste befindet sich ein Schaltkreis, der die Eingabe erkennt, wenn die Taste gedrückt wird. Diese Schaltkreise können mechanisch oder berührungsempfindlich sein, je nach Art des Tastenfelds.
-3. Steuerungselektronik: Das Tastenfeld ist mit einer Steuerungselektronik verbunden, die die Eingaben von den Tasten erfasst und verarbeitet. Diese Elektronik ermöglicht die Kommunikation zwischen dem Tastenfeld und dem Gerät oder System, mit dem es verbunden ist.
+1. Tasten:&#x20;
+   1. Die **Hauptkomponenten** eines Tastenfelds sind die **physischen Tasten**, die gedrückt werden, um Eingaben zu machen. Diese Tasten können unterschiedliche Formen und Größen haben und sind oft mit Buchstaben, Zahlen, Symbolen oder spezifischen Funktionen beschriftet.
+2. Schaltkreise:&#x20;
+   1. **Hinter jeder Taste befindet sich ein Schaltkreis**, der die Eingabe erkennt, wenn die Taste gedrückt wird. Diese **Schaltkreise können mechanisch oder berührungsempfindlich sein**, **je nach Art** des Tastenfelds.
+3. Steuerungselektronik:&#x20;
+   1. Das Tastenfeld ist mit einer Steuerungselektronik verbunden, die die Eingaben von den Tasten erfasst und verarbeitet. Diese Elektronik ermöglicht die Kommunikation zwischen dem Tastenfeld und dem Gerät oder System, mit dem es verbunden ist.
 
 ## Verarbeitung
 
@@ -24,11 +27,16 @@ Ein Tastenfeld ist eine Vorrichtung, die aus einer Reihe von Tasten besteht, die
 
 Tastenfelder finden Anwendung in einer Vielzahl von Geräten und Systemen, darunter:
 
-* Mobiltelefone: Tastenfelder werden zum Eingeben von Telefonnummern, Textnachrichten und anderen Funktionen verwendet.
-* Tastaturen: Computer- und Laptop-Tastaturen sind spezielle Arten von Tastenfeldern, die zum Eingeben von Text und Steuern von Software verwendet werden.
-* Sicherheitssysteme: Tastenfelder werden in Alarmanlagen und Zugangskontrollsystemen eingesetzt, um Passwörter, Codes oder PINs einzugeben.
-* Geldautomaten: Tastenfelder werden verwendet, um PINs einzugeben und Transaktionen an Geldautomaten durchzuführen.
-* Industrielle Steuerungen: In industriellen Umgebungen werden Tastenfelder zur Steuerung von Maschinen und Prozessen eingesetzt.
+* Mobiltelefone:&#x20;
+  * Tastenfelder werden zum Eingeben von Telefonnummern, Textnachrichten und anderen Funktionen verwendet.
+* Tastaturen:&#x20;
+  * Computer- und Laptop-Tastaturen sind spezielle Arten von Tastenfeldern, die zum Eingeben von Text und Steuern von Software verwendet werden.
+* Sicherheitssysteme:&#x20;
+  * Tastenfelder werden in Alarmanlagen und Zugangskontrollsystemen eingesetzt, um Passwörter, Codes oder PINs einzugeben.
+* Geldautomaten:&#x20;
+  * Tastenfelder werden verwendet, um PINs einzugeben und Transaktionen an Geldautomaten durchzuführen.
+* Industrielle Steuerungen:&#x20;
+  * In industriellen Umgebungen werden Tastenfelder zur Steuerung von Maschinen und Prozessen eingesetzt.
 
 {% hint style="info" %}
 **Nice to know:**
