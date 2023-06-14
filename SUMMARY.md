@@ -32,4 +32,4 @@
 * [🗺 Arduino Uno R3](connection-plans/r3.md)
 * [🗺 Arduino Leonardo](connection-plans/leonardo.md)
 * [🗺 Komplettansicht](connection-plans/full-plans.md)
-* [🗺 Fritzing Downloaddatei](connection-plans/r3-1.md)
+* [💾 Fritzing Downloaddatei](connection-plans/r3-1.md)
