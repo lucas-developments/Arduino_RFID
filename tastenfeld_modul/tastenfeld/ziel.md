@@ -9,7 +9,7 @@ description: 'Tastenfeld: Ziel'
 {% hint style="success" %}
 **Unser Ziel:**\
 \
-Bestätigung der, auf dem LCD - Display, angezeigten PIN durch das Tastenfeld.
+Bestätigung der, auf dem LCD - Display angezeigten, PIN durch das Tastenfeld.
 {% endhint %}
 
 Unser Ziel ist es, das Tastenfeld in das System zu integrieren, um die UID (**U**ser **Id**entification) zu bestätigen. Dadurch ermöglichen wir dem Benutzer, seine eindeutige Identifikationsnummer über das Tastenfeld einzugeben und auf dem Display zu bestätigen.
