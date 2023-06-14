@@ -9,7 +9,7 @@ description: 'Tastenfeld: Ziel'
 {% hint style="success" %}
 **Unser Ziel:**\
 \
-Funktionsfreigabe durch das Auslesen eines RFID Chips. Dieses hat später sogar geklappt!
+Bestätigung der angezeigten PIN durch das Tastenfeld.
 {% endhint %}
 
 Unser Ziel ist es, das Tastenfeld in das System zu integrieren, um die UID (**U**ser **Id**entification) zu bestätigen. Dadurch ermöglichen wir dem Benutzer, seine eindeutige Identifikationsnummer über das Tastenfeld einzugeben und auf dem Display zu bestätigen.

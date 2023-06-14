@@ -9,7 +9,7 @@ description: 'LCD Display: Ziel'
 {% hint style="success" %}
 **Unser Ziel:**\
 \
-Funktionsfreigabe durch das Auslesen eines RFID Chips. Dieses hat später sogar geklappt!
+Anzeigen der UID, ausgelesen durch das RFID - Modul. Anschließend anzeigen des Inputs vom Tastenfeld.
 {% endhint %}
 
 Unser Ziel ist es, das LCD-Display in das System zu integrieren, um die UID (**U**ser **Id**entification) anzuzeigen. Dies ermöglicht es den Benutzern, ihre eindeutige **Identifikationsnummer auf dem Display** zu **sehen**. Darüber hinaus möchten wir auch den vom Benutzer eingegebenen Code über das Tastenfeld anzeigen und dem Benutzer die Kontrolle über das System geben, was als UIC (**U**ser **i**n **C**ontrol) bezeichnet wird.
